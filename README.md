@@ -1,0 +1,1 @@
+有关于我的 ESP32-S3 + BME280 [仓库](https://github.com/Lraiin/Temperature)将数据请求到服务器端，且 GET 请求可以获取温度，湿度，压力等信息。
